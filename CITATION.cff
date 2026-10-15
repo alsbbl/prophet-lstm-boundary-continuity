@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "A Reproducible Prophet-LSTM Residual-Correction Protocol with Boundary-Continuity Re-Anchoring for Operational Domestic Gold Price Forecasting"
+type: software
+authors:
+  - family-names: "Salsabila"
+    given-names: "Safira Khoirulanisa"
+version: 1.0.0
+date-released: 2026-10-15
+abstract: "A reproducible computational protocol for domestic gold price forecasting that integrates multivariate Prophet, LSTM-based residual learning, recursive multi-step forecasting, and boundary-continuity re-anchoring."
